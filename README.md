@@ -27,6 +27,10 @@ npm istall less-autoprefix
 lessc file.less --ionic --autoprefix="Android >= 2.1,BlackBerry >= 7,Chrome >= 20,Firefox >= 21,Explorer >= 10,iOS >= 3.2,Opera > 12,Safari > 6,OperaMobile >= 12.1,ChromeAndroid >= 40,FirefoxAndroid >= 30,ExplorerMobile >= 10" 
 
 ```
+## Customize your Ionic app’s theme with Less
+
+Now [read the Formula](https://github.com/bassjobsen/ionic-learn/blob/less/content/formulas/working-with-less/article.md) which describe how to deploy Ionic apps with Less. 
+
 
 ## Programmatic usage
 
