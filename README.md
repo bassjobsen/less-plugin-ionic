@@ -46,3 +46,7 @@ less.render(lessString, { plugins: [ionicPlugin,autoprefixPlugin] })
 ## Browser usage
 
 Browser usage is not supported at this time.
+
+## Ionicons
+Ionic also comes with its own free and open-sourced icon font, [Ionicons](http://ionicons.com/), with over 500 icons to choose from. This plugin compiles the CSS for these icons, but does not install the font files.
+You should download the font files at [Ionicons](http://ionicons.com/) copy the `ionicons.eot`, `ionicons.woff`,`ionicons.svg` and `ionicons.ttf` to your `font` folder. Finally make sure that `@ionicons-font-path` points to the folder.
